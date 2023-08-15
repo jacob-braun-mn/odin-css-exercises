@@ -69,9 +69,6 @@ a {
 .cards {
   padding: 32px;
   display: flex;
-  justify-content: flex-start;
-  align-items: flex-start;
-  gap: 16px;
   flex-wrap: wrap;
 }
 
@@ -79,6 +76,7 @@ a {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
-  width: 200px;
+  width: 300px;
   padding: 8px;
+  margin: 16px;
 }
